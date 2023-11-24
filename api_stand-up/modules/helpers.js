@@ -1,4 +1,3 @@
-//день 2 виде 1 время 31:00
 export const sendData = (res, data) => {
   res.writeHead(200, {
     "Content-Type": "text/json; charset=utf-8",
