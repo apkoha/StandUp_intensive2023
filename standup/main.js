@@ -1,4 +1,3 @@
-import { createFilter } from "vite";
 import "./style.css";
 import TomSelect from "tom-select";
 
