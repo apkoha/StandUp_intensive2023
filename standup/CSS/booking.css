@@ -92,13 +92,6 @@
   width: 100%;
   height: 44px;
   margin-right: 8px;
-  padding: 0 16px;
-  border: 1px solid transparent;
-  border-radius: 8px;
-  color: #1a1a1a;
-  font-size: 18px;
-  line-height: 1.4;
-  background: #FFF;
 }
 
 .booking__select_comedian {
