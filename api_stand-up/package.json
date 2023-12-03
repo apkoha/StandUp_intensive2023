@@ -12,5 +12,10 @@
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
   }
 }
+
+//правки Bonus видео 3 время 3:00
